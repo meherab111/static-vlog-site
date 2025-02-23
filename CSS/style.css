@@ -34,7 +34,6 @@
 
 #section-1,
 #section-2 {
- 
   height: 100vh;
   margin: 0;
 }
@@ -464,8 +463,6 @@ footer {
 }
 
 @media (max-width: 50em) {
-
-
   .wrapper-3 {
     display: flex;
     justify-content: space-between;
@@ -482,19 +479,17 @@ footer {
   }
 
   .wrapper-copyright {
-
     display: flex;
     padding: 1rem;
     justify-content: center;
   }
 
   .go-up-btn {
-  
     bottom: 0.5rem;
     right: 0.5rem;
   }
 
-  .wrapper-copyright{
+  .wrapper-copyright {
     background: var(--clr-purple-100);
   }
 }
